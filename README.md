@@ -1,5 +1,10 @@
-### Hi there 👋
+### Olá, mundo! 👋
+Sou uma desenvolvedora full stack, com experiência em diversos projetos que vão desde desenvolvimento de aplicativos móveis e websites, até inteligência artificial e visão computacional.
 
+Os repositórios públicos aqui no meu perfil GitHub, são essencialmente meu portfólio digital. Eles estão disponíveis para  verem, comentarem e colaborarem.
+
+- 💻 Análise e Desenvolvimento de Sistemas
+- 🌐 Contrinuindo ativamente nos projetos da [Cicatribio](https://cicatribio.com.br)
 <!--
 **beatriiss/beatriiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
